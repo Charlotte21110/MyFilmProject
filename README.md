@@ -1,9 +1,7 @@
 # MyFilmProject
 影视分享交流会源码
 使用了vue+Springboot来进行后台与客户端界面的开发
-再次修改这个文件，并且回传
-再尝试修改这个文件
-添加第三行字
-添加第七行字
-## 添加第八行字
-## 添加第九行字
+## 常见错误
+> git pull --tags origin main
+fatal: unable to access 'https://github.com/Charlotte21110/MyFilmProject.git/': Failed to connect to github.com port 443 after 21059 ms: Couldn't connect to server
+
